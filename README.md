@@ -1,3 +1,3 @@
 # tallerDeGit
 
-Modifique todo no me importa nada
+Estoy modificando desde conflicto1
